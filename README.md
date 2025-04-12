@@ -2,7 +2,7 @@
 <h3 align="center">✨ Passionate Full Stack Developer | Tech Explorer | Innovator from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding girl gif"/>
+ <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250" alt="girl coding gif">
 </p>
 
 <p align="center">
