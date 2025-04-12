@@ -1,106 +1,90 @@
-# 👩‍💻 **Hi, I'm Priyadharshni G!** 👋
+<h1 align="center">Hi there, I'm <span style="color:#4CAF50">Priyadharshni G 👩‍💻</span> 👋</h1>
+<h3 align="center">✨ Passionate Full Stack Developer | Tech Explorer | Innovator from India 🇮🇳</h3>
 
-### 🌟 Passionate Full Stack Developer | Tech Explorer from India 🇮🇳
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding girl gif"/>
+</p>
 
-Welcome to my profile! I'm a full-stack developer with a passion for creating innovative solutions and exploring new technologies. Whether it's building scalable web applications or diving into new coding languages, I am always eager to learn and grow.
-
----
-
-## 🚀 **What I Do**
-
-- 🔥 **Proficient in**: Java, MERN Stack (React, Node.js, MongoDB), Python, C
-- 📚 **Currently learning**: Full Stack Development, Data Structures, Algorithms
-- 🌈 **Pronouns**: She/Her
-- 🤝 **Looking to collaborate on**: Web development projects and innovative solutions
-- 📬 **Reach me at**: [priyadharshni823@gmail.com](mailto:priyadharshni823@gmail.com)
-- 🎉 **Fun Fact**: I love exploring new tech stacks and creatively blending them into my projects!
+<p align="center">
+  🔍 Exploring technology to make the world a better place<br>
+  🌟 Creating beautiful, functional, and impactful solutions<br>
+  🛠 Always curious, always building!
+</p>
 
 ---
 
-## 🌐 **Connect With Me**  
-Feel free to connect with me across various platforms:
+### 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyadharshnig)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.bookish_bliss._)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyadharshnig)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23007A5E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/priyadharshnig23)  
-[![CodePen](https://img.shields.io/badge/CodePen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/priya-dharshnig)
-
----
-
-## 🛠️ **Tech Stack & Tools**
-
-### **Frontend**
-- ![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg) **HTML5**  
-- ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg) **CSS3**  
-- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg) **JavaScript**  
-- ![React](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg) **React.js**  
-- ![Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg) **Bootstrap**
-
-### **Backend**
-- ![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg) **Node.js**  
-- ![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg) **Express.js**  
-- ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg) **Python**  
-- ![Java](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg) **Java**
-
-### **Databases**
-- ![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg) **MongoDB**  
-- ![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg) **MySQL**
-
-### **Dev Tools**
-- ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg) **Git**  
-- ![Figma](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg) **Figma**  
-- ![Postman](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg) **Postman**
+- 🎓 Final Year Computer Science Engineering Student  
+- 💻 Tech Stack: **MERN**, **Java**, **Python**, **DSA**, **MySQL**  
+- 🌱 Currently learning **DevOps**, **System Design**, and **AI**  
+- 🤝 Open to collaborations on **web apps**, **AI projects**, and **Hackathons**  
+- 📬 Reach me at: [priyadharshni823@gmail.com](mailto:priyadharshni823@gmail.com)  
+- 🎯 Fun Fact: I turn coffee into code and bugs into features 😄
 
 ---
 
-## 📊 **GitHub Stats**
+### 🌐 Connect With Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=priyadharshnig&show_icons=true&locale=en&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyadharshnig&show_icons=true&locale=en)
-
----
-
-## 🔧 **Highlighted Projects**
-
-### **1. Diabetic Retinopathy Prediction Using Deep Learning**
-A deep learning model aimed at diagnosing diabetic retinopathy from eye images. The project uses Python, TensorFlow, and Keras to train models on medical datasets to predict the severity of the condition.
-
-- 🏗️ Technologies: Python, TensorFlow, Keras, OpenCV
-- 📊 [GitHub Repo](https://github.com/priyadharshnig/Diabetic-Retinopathy)
+<p align="center">
+  <a href="https://linkedin.com/in/priyadharshnig" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/priyadharshnig" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://kaggle.com/priyadharshnig23" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://instagram.com/_.bookish_bliss._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/innovisiontamil" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
 ---
 
-### **2. Face Recognition-Based Attendance System**
-An automated attendance system using Python, OpenCV, and Tkinter. The system recognizes faces in real-time and logs attendance.
+### 🧰 Tech Stack
 
-- 🏗️ Technologies: Python, OpenCV, Tkinter, LBPH
-- 📊 [GitHub Repo](https://github.com/priyadharshnig/Face-Recognition-Attendance)
-
----
-
-### **3. Green Shift Marketplace (Regrow Platform)**
-A platform that helps promote sustainable agriculture by connecting farmers with buyers and supporting waste-to-product recycling. The platform allows agricultural waste to be traded and handmade products to be sold.
-
-- 🏗️ Technologies: Python (Django/Flask), MongoDB, React.js, WebSocket
-- 📊 [GitHub Repo](https://github.com/priyadharshnig/Green-Shift-Marketplace)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,c,python,bootstrap,figma,postman,git" />
+</p>
 
 ---
 
-## 📲 **Girl Coder in Action**
+### 💡 Featured Projects
 
-Here's me coding away at some of my favorite projects:
-
-![Girl Coding](https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif)
-
----
-
-## 🏆 **Achievements**
-
-- 🥈 **2nd Prize** at **IEEE Engineers Day** for the project **Smart Shield**.
-- 🚀 **Top 3** in **Aurora'24 Symposium** with the **Diabetic Retinopathy** research.
-- 🏅 **Smart India Hackathon Finalist** for **Green Shift Marketplace (Regrow Platform)**.
+| 🌱 Project Name | 🔧 Tech Stack | 📄 Description |
+|----------------|---------------|----------------|
+| **Green Shift Marketplace** | MERN, YOLO, Python, MySQL | A platform to buy/sell agri-waste & handmade products |
+| **Face Recognition Attendance** | Python, OpenCV, Tkinter | Real-time facial recognition for secure attendance |
+| **Diabetic Retinopathy Detector** | Deep Learning, CNN | Predicting diabetic retinopathy from retina scans |
 
 ---
 
-## ✨ Let's connect, learn, and build something amazing together! ✨
+### 🏆 Achievements & Highlights
+
+- 🥈 Secured **2nd Place** at IEEE Engineers Day Presentation  
+- 💡 Finalist in **Aurora'24 Symposium** for "Stylish Shield" idea  
+- 🧠 Smart India Hackathon Participant with Green Shift Marketplace  
+- ✍️ Poster Designer & Speaker for several tech events and ideas
+
+---
+
+### 📚 Currently Learning
+
+- 🔧 **Advanced DSA** and **System Design**  
+- 🧪 **Big Data Algorithms** for Agriculture Tech  
+- 🐳 **Docker**, **Kubernetes**, and **Cloud Deployment**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyadharshnig&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshnig&layout=compact&theme=radical" width="350" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Let's build the future together!<br>
+  💬 DM me for collabs, freelance work, or just a friendly tech chat!
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=4CAF50&center=true&vCenter=true&width=435&lines=Keep+learning.;Keep+building.;Keep+growing!+" />
+</p>
