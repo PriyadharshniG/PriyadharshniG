@@ -2,7 +2,7 @@
 <h3 align="center">✨ Passionate Full Stack Developer | Tech Explorer | Innovator from India 🇮🇳</h3>
 
 <p align="center">
-  ![Girl Coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVtMHp0OWN4Y3ZqOTlhaXAydXczcjF6a3Vsb2pjMXFlb3Z5MjVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Girl Coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVtMHp0OWN4Y3ZqOTlhaXAydXczcjF6a3Vsb2pjMXFlb3Z5MjVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 </p>
 
 
