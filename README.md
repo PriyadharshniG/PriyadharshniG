@@ -44,21 +44,10 @@
 
 ---
 
-### 💡 Featured Projects
-
-| 🌱 Project Name | 🔧 Tech Stack | 📄 Description |
-|----------------|---------------|----------------|
-| **Green Shift Marketplace** | MERN, YOLO, Python, MySQL | A platform to buy/sell agri-waste & handmade products |
-| **Face Recognition Attendance** | Python, OpenCV, Tkinter | Real-time facial recognition for secure attendance |
-| **Diabetic Retinopathy Detector** | Deep Learning, CNN | Predicting diabetic retinopathy from retina scans |
-
----
 
 ### 🏆 Achievements & Highlights
 
 - 🥈 Secured **2nd Place** at IEEE Engineers Day Presentation  
-- 💡 Finalist in **Aurora'24 Symposium** for "Stylish Shield" idea  
-- 🧠 Smart India Hackathon Participant with Green Shift Marketplace  
 - ✍️ Poster Designer & Speaker for several tech events and ideas
 
 ---
