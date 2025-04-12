@@ -2,8 +2,9 @@
 <h3 align="center">✨ Passionate Full Stack Developer | Tech Explorer | Innovator from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47dop3mezri3iolx1okqud0j6goajls246o629jmeq&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="200" alt="Coding girl gif"/>
-</p>
+  ![Girl Coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVtMHp0OWN4Y3ZqOTlhaXAydXczcjF6a3Vsb2pjMXFlb3Z5MjVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+ </p>
 
 <p align="center">
   🔍 Exploring technology to make the world a better place<br>
