@@ -39,12 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyadharshnig&show_icons=true&theme=dracula&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshnig&layout=compact&theme=dracula&hide_border=true" width="330" />
-</p>
 
 ---
 
