@@ -73,4 +73,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=4CAF50&center=true&vCenter=true&width=420&lines=Keep+learning.;Keep+building.;Keep+growing.;You're+awesome+for+being+here!" />
-</p> can you make it even more attractive and add more
+</p> 
