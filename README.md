@@ -40,8 +40,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyadharshnig&show_icons=true&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshnig&layout=compact&theme=dracula&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyadharshnig&show_icons=true&theme=dracula&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshnig&layout=compact&theme=dracula&hide_border=true" width="330" />
+</p>
 
 ---
 
@@ -76,4 +79,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=4CAF50&center=true&vCenter=true&width=420&lines=Keep+learning.;Keep+building.;Keep+growing.;You're+awesome+for+being+here!" />
-</p>
+</p> can you make it even more attractive and add more
