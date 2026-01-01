@@ -40,16 +40,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=priyadharshnig&show_icons=true&theme=dracula&hide_border=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshnig&layout=compact&theme=dracula&hide_border=true"
-    height="165"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyadharshnig&show_icons=true&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshnig&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
