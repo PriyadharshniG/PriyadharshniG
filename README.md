@@ -71,18 +71,14 @@ Readable • Maintainable
 
 <table align="center">
 <tr>
-<td width="55%">
-<img src="https://github-readme-stats.vercel.app/api?username=priyadharshnig&show_icons=true&theme=radical&hide_border=true"/>
-</td>
+
 <td width="45%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyadharshnig&theme=radical&hide_border=true"/>
 </td>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshnig&layout=compact&theme=radical&hide_border=true"/>
-</p>
+
 
 ---
 
