@@ -116,12 +116,12 @@ Active Participant
 
 ---
 
-<!-- ================= CONTRIBUTIONS ================= -->
-<h2 align="center">🐍 Contribution Flow</h2>
+## 🐍 Contribution Flow
 
 <p align="center">
-<img src="https://github.com/priyadharshnig/priyadharshnig/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/priyadharshnig/priyadharshnig/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
